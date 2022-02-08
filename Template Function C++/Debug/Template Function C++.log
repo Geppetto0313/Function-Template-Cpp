@@ -1,0 +1,7 @@
+﻿  Template Function C++.cpp
+F:\NSCC - IT Prog\IT Prog\Year2\S2\Icom3010\Template Function C++\Template Function C++\Template Function C++.cpp(13,11): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=double
+          ]
+  Template Function C++.vcxproj -> F:\NSCC - IT Prog\IT Prog\Year2\S2\Icom3010\Template Function C++\Debug\Template Function C++.exe
